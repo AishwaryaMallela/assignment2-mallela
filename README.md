@@ -15,5 +15,8 @@ One of the top most **school** located near the ***metro station***.
 6. From Begumpet catch an auto.
 8. Reach out to Paradise via CM camp office.
 9. Here is the desination for Paradise Biryani Restaurant.
-
-
+* List of food items
+    * Chick Manchurian
+    * Prawns fry
+    * Chick Biryani
+    * Mutton Curry
