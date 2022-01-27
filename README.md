@@ -23,3 +23,17 @@ One of the top most **school** located near the ***metro station***.
 
 **[MyImage](AboutMe.md)**
 
+---
+
+## Sport Activity List
+
+Please find below details of sport activities to enroll which consists of name of the sport, location to participate and the amount in dollars for any personal equipment needed.
+
+| Name | Location | Amount |
+| :--- | :---: | ---: |
+| Basketball | Texas | 140 | 
+| Cricket | Kansas | 180 |
+| Badminton | Dallas | 120 |
+| Football | Atlanta | 100 |
+| Hockey | Chicago | 210 |
+
