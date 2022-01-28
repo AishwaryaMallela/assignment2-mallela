@@ -37,3 +37,15 @@ Please find below details of sport activities to enroll which consists of name o
 | Football | Atlanta | 100 |
 | Hockey | Chicago | 210 |
 
+---
+
+## Pithy Quotes
+
+>You can always edit a bad page. You can’t edit a blank page.<br>
+-*Jodi Picoult*
+
+>Meditation is a balancing act between attention and relaxation.<br>-*B. Alan Wallace*
+
+>Mistakes are the portals of discovery<br> -James Joyce
+
+
