@@ -46,6 +46,42 @@ Please find below details of sport activities to enroll which consists of name o
 
 >Meditation is a balancing act between attention and relaxation.<br>-*B. Alan Wallace*
 
->Mistakes are the portals of discovery<br> -James Joyce
+>Mistakes are the portals of discovery<br> -*James Joyce*
 
+---
 
+## Graphs Traversal/connected/shortest paths
+
+>World Book Online<br>
+<https://cp-algorithms.com/index.html>
+
+`Breadth First Search`<br>
+<https://cp-algorithms.com/graph/breadth-first-search.html>
+
+`Depth First Search`<br> <https://cp-algorithms.com/graph/depth-first-search.html>
+
+`Finding Connected Components`<br> <https://cp-algorithms.com/graph/search-for-connected-components.html>
+
+`Finding Bridges in O(N+M)`<br> <https://cp-algorithms.com/graph/bridge-searching.html>
+
+`Finding Bridges Online`<br><https://cp-algorithms.com/graph/bridge-searching-online.html>
+
+`Finding Articulation Points in O(N+M)`<br><https://cp-algorithms.com/graph/cutpoints.html>
+
+`Strongly Connected Components and Condensation Graph`<br><https://cp-algorithms.com/graph/strongly-connected-components.html>
+
+`Strong Orientation`<br><https://cp-algorithms.com/graph/strong-orientation.html>
+
+`Dijkstra - finding shortest paths from given vertex`<br><https://cp-algorithms.com/graph/dijkstra.html>
+
+`Dijkstra on sparse graphs`<br><https://cp-algorithms.com/graph/dijkstra_sparse.html>
+
+`Bellman-Ford - finding shortest paths with negative weights`<br><https://cp-algorithms.com/graph/bellman_ford.html>
+
+`0-1 BFS`<br><https://cp-algorithms.com/graph/01_bfs.html>
+
+`D´Esopo-Pape algorithm`<br><https://cp-algorithms.com/graph/desopo_pape.html>
+
+`Floyd-Warshall - finding all shortest paths`<br><https://cp-algorithms.com/graph/all-pair-shortest-path-floyd-warshall.html>
+
+`Number of paths of fixed length / Shortest paths of fixed length`<br><https://cp-algorithms.com/graph/fixed_length_paths.html>
